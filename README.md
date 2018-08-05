@@ -1,4 +1,7 @@
 # linear_regression_live
+
+[![GuardRails badge](https://badges.production.guardrails.io/shtakai/linear_regression_live.svg)](https://www.guardrails.io)
+
 This is the code for the "How to Do Linear Regression the Right Way" live session by Siraj Raval on Youtube
 
 
